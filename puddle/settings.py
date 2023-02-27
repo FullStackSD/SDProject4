@@ -18,7 +18,7 @@ SECRET_KEY = os.environ.get('SECRET_KEY', 'django-insecure-m8%-^3+te0_si_@&1%!s+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [os.environ.get('HEROKU_HOSTNAME')]
+ALLOWED_HOSTS = [os.environ.get('sdproject4.herokuapp.com')]
 
 LOGIN_URL = '/login/'
 LOGIN_REDIRECT_URL = '/'
