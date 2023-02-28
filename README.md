@@ -261,4 +261,3 @@ I also found a lot of examples and suggested solution to questions on Stack Over
 
 ##### [back to top](#table-of-contents)
 ---
----
