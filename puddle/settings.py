@@ -4,9 +4,9 @@ import os
 if os.path.isfile("env.py"):
     import env
 import dj_database_url
-import cloudinary
-import cloudinary.uploader
-import cloudinary.api
+# import cloudinary
+# import cloudinary.uploader
+# import cloudinary.api
 
 
 development = os.environ.get('DEVELOPMENT', False)
